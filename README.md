@@ -30,7 +30,7 @@ Challenge is to make a page look as close to the design as possible.
 ### Links
 
 - Solution URL: [GitHub Code](https://github.com/TatiaKatamadze/QR-Code-Component)
-- Live Site URL: [Demo LIve](https://TatiaKatamadze.github.io/NFT-Preview-Card-Component/)
+- Live Site URL: [Demo LIve](https://tatiakatamadze.github.io/QR-Code-Component/)
 
 ## My process
 
